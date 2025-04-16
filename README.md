@@ -16,8 +16,8 @@ It fulfills all the required user stories provided by freeCodeCamp.
 
 ## 🚀 Live Demo
 
-🔗 **GitHub Pages Link:** [Click here to view the project](https://your-username.github.io/tribute-page/)  
-_Replace with your actual GitHub Pages link after uploading._
+🔗 **GitHub Pages Link:** [Click here to view the project](https://atharvaprojects.github.io/Tribute-Page/)  
+
 
 ## 📁 Files
 
@@ -39,7 +39,7 @@ _Replace with your actual GitHub Pages link after uploading._
 
 ## 🧠 Author
 
-- Built with ❤️ by [Your Name]
+- Built with ❤️ by [Atharva Pathak]
 
 ---
 
